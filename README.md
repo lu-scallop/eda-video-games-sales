@@ -72,4 +72,4 @@ O notebook `main.ipynb` segue um fluxo lógico para investigar os dados:
 
 ## 👨‍💻 Autor
 
-* **LinkedIn:** `https://www.linkedin.com/login/pt`
+* **LinkedIn:** `https://www.linkedin.com/in/lucas-vieira-rocha/`
