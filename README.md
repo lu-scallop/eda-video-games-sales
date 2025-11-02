@@ -26,7 +26,7 @@ O notebook `main.ipynb` segue um fluxo lógico para investigar os dados:
     * Análise e remoção de valores nulos nas colunas `Year` e `Publisher`.
     * Verificação da integridade dos dados (ex: dados pós-2016 incompletos).
 
-2.  **Engenharia de Atributos:**
+2.  **Manipulação de dados:**
     * Criação da coluna `Decade` (década) a partir da coluna `Year` para facilitar análises de tendências de longo prazo.
 
 3.  **Visualização de Dados e Insights:**
@@ -38,7 +38,7 @@ O notebook `main.ipynb` segue um fluxo lógico para investigar os dados:
 
 ## 💡 Principais Conclusões
 
-1.  **A Grande Migração de Gêneros:** O mercado dos anos 80 e 90, dominado por jogos de **Plataforma** e **Puzzle**, é irreconhecível em comparação com os anos 2010, que são massivamente dominados por jogos de **Ação** e **Tiro (Shooter)**.
+1.  **Mudança nos Gêneros:** O mercado dos anos 80 e 90, dominado por jogos de **Plataforma** e **Puzzle**, é irreconhecível em comparação com os anos 2010, que são massivamente dominados por jogos de **Ação** e **Tiro (Shooter)**.
 
 2.  **A "Era de Ouro" dos videogames (2000-2010):** A década de 2000 viu uma explosão no volume de vendas, com seu pico histórico em 2008. Esse aumento abrupto teve como um dos responsáveis o lançamento do **PlayStation 2** (o mais vendido da história).
 
@@ -51,6 +51,21 @@ O notebook `main.ipynb` segue um fluxo lógico para investigar os dados:
 **Vendas Globais de jogos de 1980 até 2016**
 ![Gráfico vendas globais](/graphics/vendas_globais_ano.png
 )
+
+**Top 10 Plataformas com jogos mais vendidos**
+![Gráfico plataformas](/graphics/plataformas_jogos_mais_vendidos.png)
+
+**Top 10 Gêneros de jogos mais vendidos**
+![Gráfico Gêneros](/graphics/generos_mais_vendidos.png)
+
+**Top 10 Publishers com os jogos mais vendidos**
+![Gráfico Publishers](/graphics/plublishers_jogos_mais_vendidos.png)
+
+**Vendas globais de jogos por década**
+![Gráfico décadas](/graphics/vendas_globais_totais_por_década.png)
+
+**Vendas regionais por gênero**
+![Gráfico regional](/graphics/vendas_regionais_por_genero.png)
 
 **Evolução da Popularidade dos Gêneros**
 ![Gráfico de Gêneros por Década](/graphics/proporcao_vendas_globais_por_genero.png)
@@ -70,6 +85,6 @@ O notebook `main.ipynb` segue um fluxo lógico para investigar os dados:
     ```
 3.  Abra o arquivo `main.ipynb`.
 
-## 👨‍💻 Autor
+## 👨‍💻 Contato
 
-* **LinkedIn:** `https://www.linkedin.com/login/pt`
+* **LinkedIn:** `https://www.linkedin.com/in/lucas-vieira-rocha/`
