@@ -44,7 +44,7 @@ O notebook `main.ipynb` segue um fluxo lógico para investigar os dados:
 
 3.  **Vendas regionais:** O Japão apresenta um perfil de consumo único, com uma preferência histórica e clara por **RPGs**, gênero que tem vendas modestas na América do Norte. Em contraste, América do Norte e Europa lideram com vendas de jogos do gênero Ação e Tiro.
 
-4.  **As Gerações de Consoles:** A análise de *market share* por plataforma mostra claramente a ascensão e queda das gerações: do domínio do **NES** nos anos 80, para a "guerra" entre **PS1** e **SNES** nos anos 90, até o domínio entre **PS2/Wii/DS** nos anos 2000.
+4.  **As Gerações de Consoles:** A análise de *market share* por plataforma mostra claramente o domínio entre **PS2/Wii/DS** nos anos 2000.
 
 ## 📈 Gráficos de Destaque
 
